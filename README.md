@@ -1,7 +1,8 @@
 # PySimpleGUI-Demo
 
 Resources to practice from examples:
-I feel this is the best resource to learn (too many working examples for most of the Python GUI-related requirements): https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
+
+I feel this is the best resource to learn (lots of working examples for most of the Python GUI-related requirements): https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms
 
 Resources to install and start:
 
